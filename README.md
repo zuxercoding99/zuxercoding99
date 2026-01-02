@@ -1,107 +1,96 @@
-<h1 align="center">Hi, I'm Ezequiel Falca 👋</h1>
-<h3 align="center">Backend Developer — Java & Spring Boot</h3>
+# 👋 Hi, I'm Ezequiel Falca
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/ezequiel-zk993213/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin" />
-  </a>
-  <a href="mailto:zkcoding99@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?logo=gmail" />
-  </a>
-  <a href="https://github.com/zuxercoding99">
-    <img src="https://img.shields.io/badge/GitHub-Profile-black?logo=github" />
-  </a>
-</p>
+### Backend Developer — Java & Spring Boot ☕🚀
+
+Backend developer specialized in **Java 17** and **Spring Boot**.  
+Experience building **REST APIs**, implementing **JWT security**, **WebSockets**, **database migrations with Flyway**, and **CI/CD pipelines with GitHub Actions**.  
+Focused on clean architecture, automation, and cloud-ready applications.
+
+📍 Argentina · 🌐 Open to Remote Opportunities
 
 ---
 
-## 👨‍💻 About me
+## 🧠 Core Skills
 
-Backend Developer specialized in **Java 17** and **Spring Boot**.  
-Experience designing **REST APIs**, implementing **JWT security**, **WebSockets**, and managing **database migrations with Flyway**.  
-I’ve built CI/CD pipelines using **GitHub Actions** and deployed containerized applications with **Docker**.
-
-Interested in contributing to backend teams and continuing to grow in **Java/Spring Boot ecosystems**.
-
-📍 Argentina • 🌐 Open to remote opportunities
+![Java](https://img.shields.io/badge/Java-17-orange)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3-brightgreen)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1)
+![REST API](https://img.shields.io/badge/REST-API-blue)
+![Docker](https://img.shields.io/badge/Docker-2496ED)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-GitHub%20Actions-black)
+![Flyway](https://img.shields.io/badge/Flyway-DB%20Migrations-red)
+![JWT](https://img.shields.io/badge/Security-JWT-purple)
+![WebSockets](https://img.shields.io/badge/WebSockets-Realtime-yellow)
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠 Tech Stack
 
-### Backend
+**Backend**
 
-<p>
-  <img src="https://img.shields.io/badge/Java-17-red?logo=java" />
-  <img src="https://img.shields.io/badge/Spring%20Boot-3-brightgreen?logo=springboot" />
-  <img src="https://img.shields.io/badge/Spring%20Security-JWT-green?logo=springsecurity" />
-  <img src="https://img.shields.io/badge/JPA-Hibernate-blue" />
-</p>
+- Java 17
+- Spring Boot 3
+- Spring Security (JWT)
+- Spring Data JPA
+- RESTful API design
 
-### Databases
+**Database**
 
-<p>
-  <img src="https://img.shields.io/badge/PostgreSQL-DB-blue?logo=postgresql" />
-  <img src="https://img.shields.io/badge/MySQL-DB-orange?logo=mysql" />
-  <img src="https://img.shields.io/badge/H2-DB-lightgrey" />
-  <img src="https://img.shields.io/badge/Flyway-Migrations-red" />
-</p>
+- PostgreSQL
+- SQL
+- Flyway (schema versioning & migrations)
 
-### DevOps & Cloud
+**DevOps / Cloud**
 
-<p>
-  <img src="https://img.shields.io/badge/Docker-Containers-blue?logo=docker" />
-  <img src="https://img.shields.io/badge/GitHub%20Actions-CI%2FCD-black?logo=githubactions" />
-  <img src="https://img.shields.io/badge/Cloud-Deployment-lightgrey" />
-</p>
+- Docker & Docker Compose
+- CI/CD with GitHub Actions
+- Cloud deployment (container-based platforms)
 
-### Testing & Tools
+**Testing**
 
-<p>
-  <img src="https://img.shields.io/badge/JUnit-5-green?logo=junit5" />
-  <img src="https://img.shields.io/badge/MockMvc-Testing-lightgrey" />
-  <img src="https://img.shields.io/badge/OpenAPI-Swagger-brightgreen?logo=swagger" />
-</p>
+- JUnit 5
+- MockMvc
+- Integration testing
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🔹 Social Media Platform — Spring Boot
+### 🐦 Social Media Platform — Full Stack
 
-Twitter-like social media application with:
+**Spring Boot + HTML/CSS/JavaScript**
 
-- JWT authentication
-- Posts, comments, likes and profiles
+- JWT authentication & authorization
+- Posts, comments, likes, profiles
+- Real-time chat with **WebSockets**
 - Image uploads
-- Real-time chat using WebSockets
-- **Production-ready setup with Flyway migrations**
-- **CI/CD pipeline using GitHub Actions**
+- **Flyway migrations** for database evolution
+- **CI/CD pipeline with GitHub Actions** (tests + build + deploy)
+- Layered architecture & security validations
 
 🔗 Repository:  
 👉 https://github.com/zuxercoding99/social-media-with-springboot
 
 ---
 
-### 🔹 Voucher E-Commerce Platform — Backend
+### 🎟 Voucher E-Commerce Platform — Backend
 
-Backend system for managing and selling digital vouchers:
+**Spring Boot REST API**
 
-- REST APIs with Spring Boot
+- Digital voucher management & sales
 - Payment gateway integration
-- Webhooks handling
-- Voucher expiration logic
-- Dockerized deployment
-- Automated testing and OpenAPI documentation
+- Webhooks & asynchronous processing
+- Business rules & expiration logic
+- Dockerized for cloud deployment
 
 🔗 Repository:  
 👉 https://github.com/zuxercoding99/Voucher-Ecommerce
 
 ---
 
-## 🎓 Education
+## 📚 Education
 
-**Computer Science**  
+🎓 **Computer Science**  
 Universidad Nacional del Comahue  
 2018 – Present
 
@@ -110,12 +99,16 @@ Universidad Nacional del Comahue
 ## 🌍 Languages
 
 - Spanish — Native
-- English — B2 (technical reading & basic communication)
+- English — B2 (technical reading & communication)
 
 ---
 
 ## 📫 Contact
 
-- Email: **zkcoding99@gmail.com**
-- LinkedIn: https://www.linkedin.com/in/ezequiel-zk993213/
-- GitHub: https://github.com/zuxercoding99
+- ✉️ Email: **zkcoding99@gmail.com**
+- 💼 LinkedIn: https://www.linkedin.com/in/ezequiel-zk993213/
+- 💻 GitHub: https://github.com/zuxercoding99
+
+---
+
+⭐ Always learning, always building. Open to Backend Java / Spring Boot opportunities.
