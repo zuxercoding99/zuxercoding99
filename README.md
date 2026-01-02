@@ -9,7 +9,7 @@
     <img src="https://img.shields.io/badge/Email-Contact-red?logo=gmail" />
   </a>
   <a href="https://github.com/zuxercoding99">
-    <img src="https://img.shields.io/badge/GitHub-Profile-black?logo=github" />
+    <img src="https://img.shields.io/badge/GitHub%20Profile-black?logo=github" />
   </a>
 </p>
 
@@ -51,7 +51,7 @@ Interested in contributing to backend teams and continuing to grow in **Java/Spr
 
 <p>
   <img src="https://img.shields.io/badge/Docker-Containers-blue?logo=docker" />
-  <img src="https://img.shields.io/badge/GitHub%20Actions-CI%2FCD-black?logo=githubactions" />
+  <img src="https://img.shields.io/badge/GitHub%20Actions%20CI%2FCD-black?logo=githubactions" />
   <img src="https://img.shields.io/badge/Cloud-Deployment-lightgrey" />
 </p>
 
