@@ -18,14 +18,11 @@
 
 ## 👨‍💻 About me
 
-Backend Developer specialized in **Java 17** and **Spring Boot**, focused on building  
-**secure, scalable, and production-ready systems**.
+Backend Developer specialized in **Java 17** and **Spring Boot**, focused on building **secure, scalable, and production-ready systems**.
 
-I have hands-on experience designing **REST APIs**, implementing **JWT & OAuth2 security**,  
-**real-time communication with WebSockets**, and managing **database migrations with Flyway**.
+I have hands-on experience designing **REST APIs**, implementing **JWT & OAuth2 security**, **real-time communication with WebSockets**, and managing **database migrations with Flyway**.
 
-I work with **Dockerized environments**, **CI/CD pipelines using GitHub Actions**,  
-and cloud deployments.
+I work with **Dockerized environments**, **CI/CD pipelines using GitHub Actions**, and cloud deployments.
 
 📍 Argentina • 🌐 Open to remote opportunities
 
