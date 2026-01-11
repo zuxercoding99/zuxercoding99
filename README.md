@@ -1,5 +1,6 @@
-<h1 align="center">Hi, I'm Ezequiel Falca 👋</h1>
-<h3 align="center">Backend Developer — Java & Spring Boot</h3>
+<p align="center">
+  <img src="docs/img/banner_intro.jpg.jpg" alt="Profile Banner" />
+</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ezequiel-zk993213/">
@@ -17,28 +18,32 @@
 
 ## 👨‍💻 About me
 
-Backend Developer specialized in **Java 17** and **Spring Boot**.  
-Experience designing **REST APIs**, implementing **JWT security**, **WebSockets**, and managing **database migrations with Flyway**.  
-I’ve built CI/CD pipelines using **GitHub Actions** and deployed containerized applications with **Docker**.
+Backend Developer specialized in **Java 17** and **Spring Boot**, focused on building  
+**secure, scalable, and production-ready systems**.
 
-Interested in contributing to backend teams and continuing to grow in **Java/Spring Boot ecosystems**.
+I have hands-on experience designing **REST APIs**, implementing **JWT & OAuth2 security**,  
+**real-time communication with WebSockets**, and managing **database migrations with Flyway**.
+
+I work with **Dockerized environments**, **CI/CD pipelines using GitHub Actions**,  
+and cloud deployments.
 
 📍 Argentina • 🌐 Open to remote opportunities
 
 ---
 
-## 🛠️ Tech Stack
+## 🧠 Core Technologies
 
 ### Backend
 
 <p>
   <img src="https://img.shields.io/badge/Java-17-red?logo=java" />
   <img src="https://img.shields.io/badge/Spring%20Boot-3-brightgreen?logo=springboot" />
-  <img src="https://img.shields.io/badge/Spring%20Security-JWT-green?logo=springsecurity" />
+  <img src="https://img.shields.io/badge/Spring%20Security-JWT%20%2B%20OAuth2-green?logo=springsecurity" />
   <img src="https://img.shields.io/badge/JPA-Hibernate-blue" />
+  <img src="https://img.shields.io/badge/WebSockets-STOMP-lightgrey" />
 </p>
 
-### Databases
+### Databases & Persistence
 
 <p>
   <img src="https://img.shields.io/badge/PostgreSQL-DB-blue?logo=postgresql" />
@@ -47,20 +52,13 @@ Interested in contributing to backend teams and continuing to grow in **Java/Spr
   <img src="https://img.shields.io/badge/Flyway-Migrations-red" />
 </p>
 
-### DevOps & Cloud
+### DevOps & Tooling
 
 <p>
   <img src="https://img.shields.io/badge/Docker-Containers-blue?logo=docker" />
-  <img src="https://img.shields.io/badge/GitHub%20Actions%20CI%2FCD-black?logo=githubactions" />
-  <img src="https://img.shields.io/badge/Cloud-Deployment-lightgrey" />
-</p>
-
-### Testing & Tools
-
-<p>
-  <img src="https://img.shields.io/badge/JUnit-5-green?logo=junit5" />
-  <img src="https://img.shields.io/badge/MockMvc-Testing-lightgrey" />
+  <img src="https://img.shields.io/badge/GitHub%20Actions-CI%2FCD-black?logo=githubactions" />
   <img src="https://img.shields.io/badge/OpenAPI-Swagger-brightgreen?logo=swagger" />
+  <img src="https://img.shields.io/badge/JUnit-5-green?logo=junit5" />
 </p>
 
 ---
@@ -69,32 +67,41 @@ Interested in contributing to backend teams and continuing to grow in **Java/Spr
 
 ### 🔹 Social Media Platform — Full Stack
 
-Twitter-like social media application with:
+<p align="center">
+  <img src="docs/img/banner.jpg" alt="Social Media Platform Banner" />
+</p>
 
-- JWT authentication
-- Posts, comments, likes and profiles
-- Image uploads
-- Real-time chat using WebSockets
-- Production-ready setup with Flyway migrations
-- CI/CD pipeline using GitHub Actions
+**Key highlights:**
 
-🔗 Repository:  
+- JWT & OAuth2 authentication (Google)
+- Posts, comments, likes, profiles & friendships
+- Image uploads with validation
+- Real-time chat using WebSockets (STOMP)
+- Flyway database migrations
+- Dockerized setup & CI/CD pipeline
+- Cloud deployment (production-ready)
+
+🔗 **Repository:**  
 👉 https://github.com/zuxercoding99/social-media-with-springboot
+
+🌐 **Live Demo:**  
+👉 https://social-media-with-springboot-frontend.onrender.com/
 
 ---
 
-### 🔹 Voucher E-Commerce Platform — Backend
+## 📦 Other Projects
 
-Backend system for managing and selling digital vouchers:
+### 🔹 Voucher E-Commerce Platform (Backend)
+
+Backend system for managing and selling digital vouchers.
 
 - REST APIs with Spring Boot
 - Payment gateway integration
 - Webhooks handling
-- Voucher expiration logic
+- Voucher lifecycle & expiration logic
 - Dockerized deployment
-- Automated testing and OpenAPI documentation
+- Automated testing & OpenAPI docs
 
-🔗 Repository:  
 👉 https://github.com/zuxercoding99/Voucher-Ecommerce
 
 ---
@@ -116,6 +123,6 @@ Universidad Nacional del Comahue
 
 ## 📫 Contact
 
-- Email: **zkcoding99@gmail.com**
-- LinkedIn: https://www.linkedin.com/in/ezequiel-zk993213/
-- GitHub: https://github.com/zuxercoding99
+- 📧 Email: **zkcoding99@gmail.com**
+- 💼 LinkedIn: https://www.linkedin.com/in/ezequiel-zk993213/
+- 💻 GitHub: https://github.com/zuxercoding99
