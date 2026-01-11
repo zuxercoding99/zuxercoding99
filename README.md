@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="docs/img/banner_intro.jpg.jpg" alt="Profile Banner" />
+  <img src="docs/img/banner_intro.jpg" alt="Profile Banner" />
 </p>
 
 <p align="center">
@@ -41,6 +41,15 @@ and cloud deployments.
   <img src="https://img.shields.io/badge/Spring%20Security-JWT%20%2B%20OAuth2-green?logo=springsecurity" />
   <img src="https://img.shields.io/badge/JPA-Hibernate-blue" />
   <img src="https://img.shields.io/badge/WebSockets-STOMP-lightgrey" />
+</p>
+
+### Frontend
+
+<p>
+  <img src="https://img.shields.io/badge/HTML5-Markup-orange?logo=html5" />
+  <img src="https://img.shields.io/badge/CSS3-Styling-blue?logo=css3" />
+  <img src="https://img.shields.io/badge/JavaScript-ES6+-yellow?logo=javascript" />
+  <img src="https://img.shields.io/badge/React-UI-blue?logo=react" />
 </p>
 
 ### Databases & Persistence
