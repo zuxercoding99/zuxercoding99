@@ -20,7 +20,7 @@
 
 Backend Developer specialized in **Java 17** and **Spring Boot**, focused on building **secure, scalable, and production-ready systems**.
 
-I have hands-on experience designing **REST APIs**, implementing **JWT & OAuth2 security**, **real-time communication with WebSockets**, and managing **database migrations with Flyway**.
+I have hands-on experience designing **REST APIs**, implementing **JWT & OAuth2 security**, **real-time communication with WebSockets**, managing **database migrations with Flyway**, and applying **backend observability through metrics and centralized logging**.
 
 I work with **Dockerized environments**, **CI/CD pipelines using GitHub Actions**, and cloud deployments.
 
@@ -58,6 +58,15 @@ I work with **Dockerized environments**, **CI/CD pipelines using GitHub Actions*
   <img src="https://img.shields.io/badge/Flyway-Migrations-red" />
 </p>
 
+### Observability & Monitoring
+
+<p>
+  <img src="https://img.shields.io/badge/Spring%20Boot-Actuator-brightgreen?logo=springboot" />
+  <img src="https://img.shields.io/badge/Prometheus-Metrics-orange?logo=prometheus" />
+  <img src="https://img.shields.io/badge/Grafana-Dashboards-yellow?logo=grafana" />
+  <img src="https://img.shields.io/badge/Better%20Stack-Centralized%20Logging-blueviolet" />
+</p>
+
 ### DevOps & Tooling
 
 <p>
@@ -84,6 +93,8 @@ I work with **Dockerized environments**, **CI/CD pipelines using GitHub Actions*
 - Image uploads with validation
 - Real-time chat using WebSockets (STOMP)
 - Flyway database migrations
+- Backend metrics observability using Spring Boot Actuator, Prometheus, and Grafana
+- Centralized logging with Better Stack for production monitoring
 - Dockerized setup & CI/CD pipeline
 - Cloud deployment (production-ready)
 
